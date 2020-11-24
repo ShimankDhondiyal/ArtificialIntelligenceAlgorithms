@@ -1,2 +1,0 @@
-# ArtificialIntelligenceAlgorithms
-Imperfect. Needs work
